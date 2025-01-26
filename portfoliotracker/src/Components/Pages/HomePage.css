@@ -1,0 +1,40 @@
+.containerhome{
+    width: 90%;
+    height: 500px;
+    display:flex;
+    margin:  auto;
+    margin-top: 5%;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+.desc{
+    flex: 1;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 25px;
+    margin: auto 0;
+}
+.desc > h1{
+    margin-bottom: auto;
+}
+.titlee{
+    font-weight: 700;
+    color: black;
+    font-size: 32px;
+}
+.titlespan{
+    font-weight:900;
+    color: #646cff;
+    font-size: 42px;
+}
+.animation{
+    flex:1;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

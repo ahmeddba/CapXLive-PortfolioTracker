@@ -1,0 +1,29 @@
+.links{
+    text-decoration: none;
+    color: black;
+}
+.active{
+    color: #646cff;
+    text-decoration: none;
+}
+.links:hover{
+    color: #646cff;
+}
+.homelink , .homelink:hover{
+    text-decoration: none;
+    color: #646cff;
+    font-weight: 900;
+    font-size: x-large;
+    margin-right: auto;
+}
+i{
+    font-weight: 700;
+    color: black;
+}
+.logout{
+    color: red;
+    text-decoration: none;
+}
+.logout:hover{
+    color: red;
+}
